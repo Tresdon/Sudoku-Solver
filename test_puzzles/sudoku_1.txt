@@ -1,0 +1,12 @@
+043080250
+600000000
+000001094
+900004070
+000608000
+010200003
+820500000
+000000005
+034090710
+
+All of this stuff is going to be ignored. It doesn't matter what I put here
+blah blah

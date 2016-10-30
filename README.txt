@@ -17,7 +17,7 @@ an empty grid would look like:
 000000000
 000000000
 
-These may be spaced out however we would like, but the puzzle MUST be in the first 9 lines of the file.
+These may be spaced out however you would like, but the puzzle MUST be in the first 9 lines of the file.
 
 
 
